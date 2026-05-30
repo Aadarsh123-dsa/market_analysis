@@ -76,9 +76,42 @@ Fortunately, there are no missing values. If there were missing values we will h
 
 
 # ML MODEL ANALYSIS 
+-  PREVIOUS RESULTS
+
+| MODELS  | Accuracy  | F1 score | Recall  |
+|--------|-----------|----------|----------|
+| Logistic REGRESSION | 0.80967 | 0.79616 | 0.777881 |
+| KNN | 0.77563  | 0.744518 | 0.68416  |
+| DECISION TREE | 0.793103 | 0.78104 | 0.772258 |
+| SVM | 0.83475 | 0.8281322 | 0.833177 |
 
 
-   
+- AFTER EDA RESULTS
+
+
+| MODELS  | Accuracy  | F1 score | Recall  |
+|--------|-----------|----------|----------|
+| Logistic REGRESSION | 0.80743| 0.800371 | 0.80787 |
+| KNN | 0.755933| 0.72899  | 0.686972 |
+| DECISION TREE | 0.82266  | 0.81950 | 0.84254  |
+| SVM | 0.833407  | 0.831062  | 0.85754  |
+
+
+# CONCLUSION 
+overall recall scores and accuracy are improved in SVM, DECISION TREES  AND LOGISTIC REGRESSION as per the statement.
+
+# solutions for next marketing campaign 
+1. Months of Marketing Activity: We saw that the the month of highest level of marketing activity was the month of May. However, this was the month that potential clients tended to reject term deposits offers. For the next marketing campaign, it will be wise for the bank to focus the marketing campaign during the months of March, September, October and December.
+2. Campaign Calls: A policy should be implemented that states that no more than 3 calls should be applied to the same potential client in order to save time and effort in getting new potential clients.
+3. Age Category: The next marketing campaign of the bank should target potential clients in their 20s or younger and 60s or older.
+4. House Loans and Balances:  the next marketing campaign should focus on individuals of average and high balances in order to increase the likelihood of suscribing to a term deposit.
+5. arget individuals with a higher duration (above 375): Target the target group that is above average in duration, there is a highly likelihood that this target group would open a term deposit account.
+
+
+
+
+
+
    
 
 
