@@ -105,7 +105,7 @@ overall recall scores and accuracy are improved in SVM, DECISION TREES  AND LOGI
 2. Campaign Calls: A policy should be implemented that states that no more than 3 calls should be applied to the same potential client in order to save time and effort in getting new potential clients.
 3. Age Category: The next marketing campaign of the bank should target potential clients in their 20s or younger and 60s or older.
 4. House Loans and Balances:  the next marketing campaign should focus on individuals of average and high balances in order to increase the likelihood of suscribing to a term deposit.
-5. arget individuals with a higher duration (above 375): Target the target group that is above average in duration, there is a highly likelihood that this target group would open a term deposit account.
+5. Target individuals with a higher duration (above 375): Target the target group that is above average in duration, there is a highly likelihood that this target group would open a term deposit account.
 
 
 
